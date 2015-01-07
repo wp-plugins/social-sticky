@@ -1,4 +1,4 @@
-=== Social Sticky by WPTP Net ===
+=== Social Sticky ===
 Contributors: WPTP Net
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8JKV66FZCU3BY
 Tags: color, effect, facebook, google plus, likebox, social, social sticky, twitter, wordpress
