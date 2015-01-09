@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects. 
 
-== Description ==      
+== Description ==
 
 Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects. 
 
