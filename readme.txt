@@ -1,7 +1,7 @@
 === Social Sticky ===
 Contributors: wptpnet
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8JKV66FZCU3BY
-Tags: social, social sticky, wptpnet, wptp net, color, effect, facebook, google, google plus, likebox, twitter, wordpress
+Tags: social, social sticky, color, effect, facebook, google, google plus, likebox, twitter, wordpress
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0
