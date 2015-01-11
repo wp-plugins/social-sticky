@@ -1,7 +1,7 @@
 === Social Sticky ===
 Contributors: wptpnet
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8JKV66FZCU3BY
-Tags: social, social sticky, wptpnet, wptp net, color, effect, facebook, google, google plus, likebox, twitter, wordpress
+Tags: social, social sticky, color, effect, facebook, google, google plus, likebox, twitter, wordpress
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects. 
 
-== Description ==      
+== Description ==
 
 Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects. 
 
@@ -33,6 +33,7 @@ Social Sticky is Simply and Effectively to get more shares, more traffic, more f
 ### Plugin's Official Site
 
 * Social Sticky by WPTP Net  ([http://www.wptp.net](http://www.wptp.net/))
+* Find us on Facebook  ([https://www.facebook.com/wptpnet](https://www.facebook.com/wptpnet/))
 * Please let us know if you would like to contribute any ideas.
 
 == Installation ==
