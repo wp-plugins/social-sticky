@@ -33,6 +33,7 @@ Social Sticky is Simply and Effectively to get more shares, more traffic, more f
 ### Plugin's Official Site
 
 * Social Sticky by WPTP Net  ([http://www.wptp.net](http://www.wptp.net/))
+* Find us on Facebook  ([https://www.facebook.com/wptpnet](https://www.facebook.com/wptpnet/))
 * Please let us know if you would like to contribute any ideas.
 
 == Installation ==
