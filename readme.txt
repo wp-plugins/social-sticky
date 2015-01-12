@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects. 
+Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects.
 
 == Description ==
 
-Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects. 
+Social Sticky is Simply and Effectively to get more shares, more traffic, more fans. Very easy to install and configure with nice effects.
 
 ### The Features
 
@@ -51,10 +51,10 @@ Do you have questions or issues with Free Social Sticky ? Use these support chan
 
 == Screenshots ==
 
-1. screenshot-1.png 
-2. screenshot-2.png 
-3. screenshot-3.png
-4. screenshot-4.png 
+1. Setting 
+2. Unlimited Color 
+3. Right Effect demo
+4. Left Effect demo 
 
 == Upgrade Notice ==
 
