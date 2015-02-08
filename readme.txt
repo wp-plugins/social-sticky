@@ -30,9 +30,14 @@ Social Sticky is Simply and Effectively to get more shares, more traffic, more f
 
 * [http://www.ssdemo.wptp.net](http://www.ssdemo.wptp.net)
 
+### Other Plugins
+
+* Google Locker ([https://wordpress.org/plugins/google-locker/](https://wordpress.org/plugins/google-locker/))
+* Secure Social Locker ([http://ssldemo.wptp.net/](http://ssldemo.wptp.net/))
+
 ### Plugin's Official Site
 
-* Social Sticky by WPTP Net  ([http://www.wptp.net](http://www.wptp.net/))
+* Social Sticky by WPTP Net ([http://www.wptp.net](http://www.wptp.net/))
 * Find us on Facebook  ([https://www.facebook.com/wptpnet](https://www.facebook.com/wptpnet/))
 * Please let us know if you would like to contribute any ideas.
 
